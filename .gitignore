@@ -3,6 +3,10 @@ out
 target
 *.iml
 log
+<<<<<<< HEAD
+=======
+backup
+>>>>>>> 2bbec5fb513a9c09690323174aded3e29d673f49
 
 
 
